@@ -1,7 +1,8 @@
 repo_name: GamePad64/msgpack-c
 report_id: 234bc250e80ab2bdf58e013f78bc5eb3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:54:31+00:00'
+timestamp: '2024-01-04T14:59:00+00:00'
 requested_by: redboltz
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c
   detection_source: Repo Metadata
 - name: CMake
   description: 'An open-source system that manages the build process '
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/GamePad64/msgpack-c
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -53,6 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -63,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Takatoshi Kondo
   last_updated_on: 2014-09-08 07:38:44.000000000 Z
@@ -75,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c/blob/master/msgpack_vc8.sln
   detection_source: msgpack_vc8.sln
   last_updated_by: frsyuki
   last_updated_on: 2010-03-19 04:34:53.000000000 Z
@@ -87,4 +95,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/GamePad64/msgpack-c
   detection_source: Repo Metadata
